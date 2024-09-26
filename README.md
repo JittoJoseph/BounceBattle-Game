@@ -12,6 +12,8 @@
 
 ## Getting Started
 
+- Windows installer file available [here](https://drive.google.com/file/d/1HfampoRr25ZlGI5ofi9wpvKr3sdh9j-S/view?usp=sharing)
+
 ### Prerequisites
 
 - [Unity](https://unity.com/) (recommended version: 2023.1 or later)
